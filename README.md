@@ -1,4 +1,4 @@
-# Arduino-Iot-Cloud
+# Programmi tesi di laurea triennale Cavicchio Mattia
 
 Internato_aug10a.zip contiene l'intero sketch del progetto su Arduino Cloud
 
