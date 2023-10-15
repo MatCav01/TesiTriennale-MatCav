@@ -2,7 +2,6 @@
 
 
 Internato_aug10a.zip contiene l'intero sketch del progetto su Arduino Cloud
-
 è anche possibile visualizzare i singoli file all'interno della cartella con lo stesso nome
 
 
